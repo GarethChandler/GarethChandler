@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GarethChandler
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @GarethChandler
+- I’m interested in Tech in Health and Emergency Services. 
+- I’m currently learning OOP, Java and Azure.
+- You can reach me on LinkedIn... www.linkedin.com/in/gareth-chandler-481012161
+
 
 <!---
 GarethChandler/GarethChandler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
