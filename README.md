@@ -1,7 +1,7 @@
 - Hi, I’m @GarethChandler
 - I’m interested in Tech in Health and Emergency Services. 
 - I’m currently learning OOP, Java and Azure.
-- You can reach me on LinkedIn... www.linkedin.com/in/gareth-chandler-481012161
+- You can reach me on LinkedIn... www.linkedin.com/in/gchand05
 
 
 <!---
