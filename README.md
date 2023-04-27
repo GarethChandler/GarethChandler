@@ -8,7 +8,7 @@
 - You can reach me on LinkedIn... www.linkedin.com/in/gchand05
 
 <!-- make portfolio page and link -->
-***You can see my [portfolio]() here!***
+***You can see my [portfolio](https://garethchandler.github.io/PortfolioPage/) here!***
 
 ### My Technologies
 - ![HTML](https://img.shields.io/badge/-HTML5-333333?-style=flat&logo=HTML5)
