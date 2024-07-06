@@ -3,8 +3,8 @@
 
 - I’m interested in Tech in Health and Emergency Services. 
 - I am an aspiring software engineer.
-- I am studying Post Graduate IT.
-- I’m currently learning OOP, Java and Azure.
+- I have a Post Graduate Cert in IT.
+- I’m currently learning OOP and .Net.
 - You can reach me on LinkedIn... www.linkedin.com/in/gchand05
 
 <!-- make portfolio page and link -->
