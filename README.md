@@ -1,10 +1,11 @@
 <!-- add banner picture -->
 ## Hi, I’m Gareth 👊
 
-- I’m interested in Tech in Health and Emergency Services. 
+- I’m interested in Tech in Health and Emergency Services.
+- Currently working as a Systems Analyst in Mining and Construction.
 - I am an aspiring software engineer.
 - I have a Post Graduate Cert in IT.
-- I’m currently learning OOP and .Net.
+- Recently leart MERN Stack, Google Project Management and Cloud Basics.
 - You can reach me on LinkedIn... www.linkedin.com/in/gchand05
 
 <!-- make portfolio page and link -->
@@ -14,6 +15,7 @@
 - ![HTML](https://img.shields.io/badge/-HTML5-333333?-style=flat&logo=HTML5)
 - ![CSS](https://img.shields.io/badge/-css-333333?-style=flat&logo=CSS3&logoColor=157286)
 - ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white)
+- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 - ![Markdown](https://img.shields.io/badge/-markdown-333333?-style=flat&logo=markdown)
 
 ### GitHub Stats
